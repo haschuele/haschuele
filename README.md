@@ -4,12 +4,12 @@ Hello, I'm Hailee, a passionate and creative web developer based in [Your Locati
 
 Github URL? 
 
-# Projects
+# Featured Projects
 
-## Project 1: [Project Name 1]
+## Project 1: Predicting Flight Delays
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
-- **Link:** [Project Link]
+- **Link:** https://github.com/haschuele/PredictingFlightDelays/tree/main
 
 ## Project 2: [Project Name 2]
 - **Description:** Brief description of the project.
