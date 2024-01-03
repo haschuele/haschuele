@@ -3,8 +3,6 @@
 Hello, I'm Hailee — an experienced analyst and researcher with an academic background in global public health. My professional experience includes usage of real-world data within the pharmaceutical/medical device and healthcare industries. I'm currently pursuing a master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), model building, project management, and the ability to articulate insights to diverse audiences. My overarching goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
 
 
-Github URL? 
-
 # Featured Projects
 
 ## Predicting Flight Delays
@@ -12,12 +10,21 @@ Github URL?
 - **Technologies Used:** PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce
 - **Link:** https://github.com/haschuele/PredictingFlightDelays/tree/main
 
-## Project 2
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
+## ASL Image Identification
+- **Description:** Predict American Sign Language (ASL) letters from RGB pictures
+- **Technologies Used:** Convolutional Neural Networks, tensorflow, keras
 - **Link:** [Project Link]
 
-...
+## Localized Climate Prediction
+- **Description:** Develop a decision-making tool to help Utilities companies decide how to distribute energy in extreme weather
+- **Technologies Used:** SARIMA, Python (scipy), Google colab
+- **Link:** [Project Link]
+
+## Predicting Co2 Trajectory 
+- **Description:** Assess historical model (Keeling Curve) performance and project future Co2 concentrations
+- **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), ARIMA
+- **Link:** [Project Link]
+
 
 # Contact
 
