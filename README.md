@@ -8,7 +8,7 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 ## Predicting Flight Delays
 - **Description:** Predict departure delays greater than 15 minutes, 2 hours before takeoff
 - **Technologies Used:** PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce
-- **Link:** https://github.com/haschuele/PredictingFlightDelays
+- **Link:** https://github.com/haschuele/FlightDelays
 
 ## ASL Image Identification
 - **Description:** Predict American Sign Language (ASL) letters from RGB pictures
