@@ -23,7 +23,7 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 ## Forecasting CO2 Trajectory 
 - **Description:** Assess historical model (Keeling Curve) performance and project future CO2 concentrations
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), ARIMA
-- **Link:** [Project Link]
+- **Link:** https://github.com/haschuele/CO2
 
 
 # Contact
