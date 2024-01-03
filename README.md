@@ -18,7 +18,7 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 ## Energy Decision-Making Tool
 - **Description:** Develop a decision-making tool to help Utilities companies decide how to distribute energy in extreme weather
 - **Technologies Used:** SARIMA, Python (scipy), Google colab
-- **Link:** [Project Link]
+- **Link:** https://github.com/haschuele/EnergyDM
 
 ## Predicting Co2 Trajectory 
 - **Description:** Assess historical model (Keeling Curve) performance and project future Co2 concentrations
