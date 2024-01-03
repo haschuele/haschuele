@@ -15,7 +15,7 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 - **Technologies Used:** Convolutional Neural Networks, tensorflow, keras
 - **Link:** https://github.com/haschuele/ASLImageID
 
-## Localized Climate Prediction
+## Energy Decision-Making Tool
 - **Description:** Develop a decision-making tool to help Utilities companies decide how to distribute energy in extreme weather
 - **Technologies Used:** SARIMA, Python (scipy), Google colab
 - **Link:** [Project Link]
