@@ -1,17 +1,18 @@
 # About
 
-Hello, I'm Hailee, a passionate and creative web developer based in [Your Location]. I have a strong foundation in front-end and back-end technologies, with a keen interest in building robust and user-friendly web applications. My goal is to contribute to innovative projects and continue learning in the ever-evolving field of web development.
+Hello, I'm Hailee — an experienced analyst and researcher with an academic background in global public health. My professional experience includes usage of real-world data within the pharmaceutical/medical device and healthcare industries. I'm currently pursuing a master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), model building, project management, and the ability to articulate insights to diverse audiences. My overarching goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
+
 
 Github URL? 
 
 # Featured Projects
 
-## Project 1: Predicting Flight Delays
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
+## Predicting Flight Delays
+- **Description:** Predict departure delays greater than 15 minutes, 2 hours before takeoff
+- **Technologies Used:** PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce
 - **Link:** https://github.com/haschuele/PredictingFlightDelays/tree/main
 
-## Project 2: [Project Name 2]
+## Project 2
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
 - **Link:** [Project Link]
@@ -20,7 +21,7 @@ Github URL?
 
 # Contact
 
-Feel free to reach out to me via email at [your.email@example.com]. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or follow me on [Twitter](https://twitter.com/yourhandle) for updates on my latest projects.
+Feel free to reach out to me via email at HaileeSchuele@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/hailee-schuele).
 
 # Resume
 
