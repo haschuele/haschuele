@@ -8,12 +8,12 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 ## Predicting Flight Delays
 - **Description:** Predict departure delays greater than 15 minutes, 2 hours before takeoff
 - **Technologies Used:** PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce
-- **Link:** https://github.com/haschuele/PredictingFlightDelays/tree/main
+- **Link:** https://github.com/haschuele/PredictingFlightDelays
 
 ## ASL Image Identification
 - **Description:** Predict American Sign Language (ASL) letters from RGB pictures
 - **Technologies Used:** Convolutional Neural Networks, tensorflow, keras
-- **Link:** [Project Link]
+- **Link:** https://github.com/haschuele/ASLImageID
 
 ## Localized Climate Prediction
 - **Description:** Develop a decision-making tool to help Utilities companies decide how to distribute energy in extreme weather
