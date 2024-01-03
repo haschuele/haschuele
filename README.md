@@ -20,8 +20,8 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 - **Technologies Used:** SARIMA, Python (scipy), Google colab
 - **Link:** https://github.com/haschuele/EnergyDM
 
-## Predicting Co2 Trajectory 
-- **Description:** Assess historical model (Keeling Curve) performance and project future Co2 concentrations
+## Predicting CO2 Trajectory 
+- **Description:** Assess historical model (Keeling Curve) performance and project future CO2 concentrations
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), ARIMA
 - **Link:** [Project Link]
 
