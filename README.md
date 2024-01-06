@@ -32,4 +32,4 @@ Feel free to reach out to me via email at HaileeSchuele@gmail.com or connect wit
 
 # Resume
 
-Check out my resume [here](https://github.com/haschuele/Resume) for an overview of my skills, work experience, and education.
+Check out my resume [here](https://github.com/haschuele/Resume/blob/main/Schuele_Resume.pdf) for an overview of my skills, work experience, and education.
