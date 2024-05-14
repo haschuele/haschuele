@@ -5,6 +5,11 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 
 # Featured Projects
 
+## Overpowered - Connecting Energy to the Grid, Faster
+- **Description:** Speed up the energy grid Interconnection Queue by recommending strategic groups of applicants to be studied together
+- **Technologies Used:** Python (sklearn, pandas, numpy, fuzzywuzzy, seaborn, matplotlib), research, Databricks, Streamlit
+- **Link:** https://github.com/haschuele/Overpowered
+
 ## Predicting Flight Delays
 - **Description:** Predict departure delays greater than 15 minutes, 2 hours before takeoff
 - **Technologies Used:** PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce
