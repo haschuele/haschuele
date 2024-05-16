@@ -7,7 +7,7 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 
 ## Overpowered - Connecting Energy to the Grid, Faster
 - **Description:** Speed up the energy grid Interconnection Queue by recommending strategic groups of applicants to be studied together
-- **Technologies Used:** Python (sklearn, pandas, numpy, fuzzywuzzy, seaborn, matplotlib), research, Databricks, Streamlit
+- **Technologies Used:** Python (sklearn, pandas, numpy, fuzzywuzzy, seaborn), power grid research, Databricks, Streamlit
 - **Link:** https://github.com/haschuele/Overpowered
 
 ## Predicting Flight Delays
