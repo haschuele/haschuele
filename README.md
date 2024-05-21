@@ -33,7 +33,7 @@ Hello, I'm Hailee — an experienced analyst and researcher with an academic bac
 
 # Contact
 
-Feel free to reach out to me via email at HaileeSchuele@gmail.com or connect with me on LinkedIn (www.linkedin.com/in/hailee-schuele).
+Feel free to reach out to me via email at HaileeSchelble@gmail.com or connect with me on LinkedIn (www.linkedin.com/in/hailee-schelble).
 
 # Resume
 
