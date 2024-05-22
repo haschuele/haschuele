@@ -1,6 +1,6 @@
 # About
 
-Hello, I'm Hailee — an experienced analyst and researcher with an academic background in global public health. My professional experience includes usage of real-world data within the pharmaceutical/medical device and healthcare industries. I'm currently pursuing a master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), model building, project management, and the ability to articulate insights to diverse audiences. My overarching goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
+Hi, I'm Hailee — an experienced analyst and researcher with an academic background in global public health. My professional experience includes usage of real-world data within the pharmaceutical/medical device and healthcare industries. I recently completed my master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), model building, project management, and the ability to articulate insights to diverse audiences. My goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
 
 
 # Featured Projects
@@ -37,4 +37,4 @@ Feel free to reach out to me via email at HaileeSchelble@gmail.com or connect wi
 
 # Resume
 
-Check out my resume [here](https://github.com/haschuele/Resume/blob/main/Schuele_Resume.pdf) for an overview of my skills, work experience, and education.
+Check out my [resume](https://github.com/haschuele/Resume/blob/main/Schelble_Resume.pdf) for an overview of my skills, work experience, and education.
