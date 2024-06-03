@@ -37,4 +37,4 @@ Feel free to reach out to me via email at HaileeSchelble@gmail.com or connect wi
 
 # Resume
 
-Check out my [resume](https://github.com/haschuele/Resume/blob/main/Schelble_Resume.pdf) for an overview of my skills, work experience, and education.
+Check out my [resume](https://github.com/haschuele/Resume/blob/main/Hailee_Schelble_Resume.pdf) for an overview of my skills, work experience, and education.
